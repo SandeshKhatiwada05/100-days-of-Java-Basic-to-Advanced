@@ -1,13 +1,15 @@
 # 🧠 Java 100 Days Challenge
 
 Welcome to my **Java 100 Days Challenge**!  
-In this repository, I’ll be learning and building Java programs step by step — from **basic to advanced** — covering **core concepts, OOP, Swing, JDBC**, and more!
+In this repository, I’ll be uploading daily Java lessons and programs as I teach students — covering everything from **basic to advanced**, including **core concepts, OOP, Swing, JDBC**, and more.  
+Follow along to learn Java step by step!
 
 ---
 
 ## 📅 Challenge Goal
 
-To improve my understanding of **Java programming** by consistently coding for **100 days**, starting with basics like data types and moving up to advanced topics like databases and GUI.
+To teach and reinforce the fundamentals of **Java programming** over the course of **100 days**, starting from the basics like data types and input/output, and gradually progressing to advanced topics such as **OOP, databases, and GUI development**.  
+This challenge is designed to help my students (and anyone following along) build a strong foundation in Java through consistent daily practice.
 
 ---
 
