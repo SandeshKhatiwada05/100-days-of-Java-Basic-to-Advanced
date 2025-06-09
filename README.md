@@ -18,7 +18,8 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 1: Java Data Types  
 - ✅ Day 2: Taking Input using Scanner
 - ✅ Day 3: Working with scanner (real world example)
-- ✅ Day 4: Conditional Statements 
+- ✅ Day 4: Conditional Statements
+- ✅ Day 5: Cases (Switch Statements)
 
 
 ---
