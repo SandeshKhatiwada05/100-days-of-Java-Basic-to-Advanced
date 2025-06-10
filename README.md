@@ -20,6 +20,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 3: Working with scanner (real world example)
 - ✅ Day 4: Conditional Statements
 - ✅ Day 5: Cases (Switch Statements)
+- 🔜 Day 6: Real Life Cases
 
 
 ---
