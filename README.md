@@ -23,6 +23,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 6: Array and it's use
 - ✅ Day 7: Methods / functions
 - ✅ Day 8: Method overloading
+- ✅ Day 9: Advanced Method overloading
 
 
 ---
