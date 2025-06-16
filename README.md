@@ -25,6 +25,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 8: Method overloading
 - ✅ Day 9: Advanced Method overloading
 - ✅ Day 10: Variable Arguments
+- ✅ Day 11: Recursion
 
 
 ---
