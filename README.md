@@ -28,6 +28,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 11: Recursion
 - ✅ Day 12: Revision Session
 - ✅ Day 13: Class
+- ✅ Day 14: Class Practice – Encapsulation, Methods, and Object Usage
 
 
 ---
