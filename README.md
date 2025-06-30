@@ -30,7 +30,8 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 13: Class
 - ✅ Day 14: Class Practice – Encapsulation, Methods, and Object Usage
 - ✅ Day 15:  Random Number Game with Loops and Class Methods
-- ✅ Day 16:  Constructor 
+- ✅ Day 16:  Constructor
+- ✅ Day 16:  Revision till day 16 
 
 
 ---
