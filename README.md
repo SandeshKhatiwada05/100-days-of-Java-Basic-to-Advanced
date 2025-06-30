@@ -50,4 +50,4 @@ This challenge is designed to help my students (and anyone following along) buil
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/SandeshKhatiwada05/Java-100-Days-Challenge.git
+   git clone https://github.com/SandeshKhatiwada05/100-days-of-Java-Basic-to-Advanced
