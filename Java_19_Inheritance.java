@@ -24,8 +24,8 @@ class Cow extends Animal {
 
     // Constructor
     Cow() {
-        System.out.println("🐄 Cow Object Created");
-        System.out.println("💰 Price of a cow is generally above 1 lakh");
+        System.out.println("Cow Object Created");
+        System.out.println("Price of a cow is generally above 1 lakh");
     }
 }
 
