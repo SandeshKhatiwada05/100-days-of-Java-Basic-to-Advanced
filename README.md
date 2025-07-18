@@ -32,7 +32,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 15:  Random Number Game with Loops and Class Methods
 - ✅ Day 16:  Constructor
 - ✅ Day 17:  Revision till day 16
-- (Delay due to other projects)
+  
 
 
 ---
