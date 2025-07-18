@@ -33,6 +33,8 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 16:  Constructor
 - ✅ Day 17:  Constructor part 2
 - ✅ Day 18:  Revision till Day 17
+- ✅ Day 19:  Inheritance 
+- 
 
   
 
