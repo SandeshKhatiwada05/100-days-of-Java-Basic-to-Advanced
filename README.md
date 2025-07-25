@@ -34,7 +34,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 17:  Constructor part 2
 - ✅ Day 18:  Revision till Day 17
 - ✅ Day 19:  Inheritance 
-- 
+- ✅ Day 20:  Constructor Inheritance
 
   
 
