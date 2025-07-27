@@ -35,7 +35,8 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 18:  Revision till Day 17
 - ✅ Day 19:  Inheritance 
 - ✅ Day 20:  Constructor Inheritance
-- ✅ Day 21:  Dyanamic Memory Dispatch 
+- ✅ Day 21:  Method Overriding 
+- ✅ Day 22:  Dyanamic Memory Dispatch 
 
   
 
