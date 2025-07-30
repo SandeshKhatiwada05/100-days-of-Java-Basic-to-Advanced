@@ -38,6 +38,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 21:  Method Overriding 
 - ✅ Day 22:  Dyanamic Memory Dispatch
 - ✅ Day 23:  Inheritance Practice
+- ✅ Day 24:  Abstract Classes
 
   
 
