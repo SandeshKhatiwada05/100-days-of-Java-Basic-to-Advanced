@@ -42,6 +42,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 25:  Interface
 - ✅ Day 26:  Default Interface
 - ✅ Day 27:  Interface Inheritance
+- ✅ Day 28:  Static and Final Keywords
 
   
 
