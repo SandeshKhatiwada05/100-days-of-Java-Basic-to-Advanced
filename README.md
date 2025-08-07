@@ -41,7 +41,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 24:  Abstract Classes
 - ✅ Day 25:  Interface
 - ✅ Day 26:  Default Interface
-- ✅ Day 25:  Interface Inheritance
+- ✅ Day 27:  Interface Inheritance
 
   
 
