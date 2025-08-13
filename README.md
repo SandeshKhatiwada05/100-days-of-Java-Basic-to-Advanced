@@ -44,6 +44,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 27:  Interface Inheritance
 - ✅ Day 28:  Static and Final Keywords
 - ✅ Day 29:  Access Modifier
+- ✅ Day 30:  Threads
 
   
 
