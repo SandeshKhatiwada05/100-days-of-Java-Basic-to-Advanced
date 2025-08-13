@@ -46,7 +46,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 29:  Access Modifier
 - ✅ Day 30:  Threads
 - ✅ Day 31:  Threads addtional
-- ✅ Day 31:  Thread Constructor
+- ✅ Day 32:  Thread Constructor
 
   
 
