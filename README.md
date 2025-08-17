@@ -48,6 +48,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 31:  Threads addtional
 - ✅ Day 32:  Thread Constructor
 - ✅ Day 33:  Thread Priority
+- ✅ Day 334  Thread Exception
 
   
 
