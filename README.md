@@ -49,7 +49,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 32:  Thread Constructor
 - ✅ Day 33:  Thread Priority
 - ✅ Day 34:  Thread Exception
-- ✅ Day 33:  Try Catch Exception
+- ✅ Day 35:  Try Catch Exception
 
   
 
