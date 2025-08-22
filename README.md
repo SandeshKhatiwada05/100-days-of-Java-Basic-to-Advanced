@@ -51,6 +51,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 34:  Thread Exception
 - ✅ Day 35:  Try Catch Exception
 - ✅ Day 36:  Exception Types
+- ✅ Day 37:  Exception Class
 
   
 
