@@ -54,7 +54,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 37:  Exception Class
 - ✅ Day 38:  Throw/ Throws
 - ✅ Day 39:  Exception Class and Throws
-- ✅ Day 40:
+- ✅ Day 40:  ArrayList
 
   
 
