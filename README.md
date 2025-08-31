@@ -1,7 +1,7 @@
 # Java 100 Days Challenge
 
 Welcome to my **Java 100 Days Challenge**!  
-In this repository, I’ll be uploading daily Java lessons and programs as I teach students — covering everything from **basic to advanced**, including **core concepts, OOP, Swing, JDBC**, and more.  
+In this repository, I’ll be uploading daily Java lessons and programs as I teach students - covering everything from **basic to advanced**, including **core concepts, OOP, Swing, JDBC**, and more.  
 Follow along to learn Java step by step!
 
 ---
