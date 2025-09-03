@@ -57,7 +57,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 40:  ArrayList
 - ✅ Day 41:  LinkedList
 - ✅ Day 42:  ArrayDequeue
-- ✅ Day 42:  HashMap
+- ✅ Day 43:  HashMap
 
   
 
