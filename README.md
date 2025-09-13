@@ -60,7 +60,8 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 43:  HashMap
 - ✅ Day 44:  Date
 - ✅ Day 45:  Calendar
-- ✅ Day 45:  GregorianCalendar
+- ✅ Day 46:  GregorianCalendar
+- ✅ Day 47:  Basic Advanced Java 
 
   
 
