@@ -64,6 +64,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 47:  Time
 - ✅ Day 48: Basic Advanced Java
 - ✅ Day 49: File Handling
+- ✅ Day 50: Threads complete
 
   
 
