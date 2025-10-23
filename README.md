@@ -66,6 +66,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 49: File Handling
 - ✅ Day 50: Threads complete
 - ✅ Day 51-56: Java Frames
+- ✅ Day 57: Batch Processing
 
 
   
