@@ -69,6 +69,8 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 57: Batch Processing
 - ✅ Day 58-62: Java FX
 - ✅ Day 53-67: Netowork Progaramming
+- ✅ Day 58-73: Netowork Progaramming Project
+- ✅ Day 74:  Attendance Checker
 
 ---
 
