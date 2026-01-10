@@ -71,6 +71,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 53-67: Netowork Progaramming
 - ✅ Day 58-73: Netowork Progaramming Project
 - ✅ Day 74:  Attendance Checker
+- ✅ Day 75-77:  Java Remote Method Invocation (RMI)
 
 ---
 
