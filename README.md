@@ -72,6 +72,9 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 58-73: Netowork Progaramming Project
 - ✅ Day 74:  Attendance Checker
 - ✅ Day 75-77:  Java Remote Method Invocation (RMI)
+- ✅ Day 78:  Batch Processing
+- ✅ Day 79:  Swing Util Dialogs
+- ✅ Day 80-84:  Swing Forms & JFrame Applications
 
 ---
 
