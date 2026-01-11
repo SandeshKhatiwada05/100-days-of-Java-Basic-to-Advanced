@@ -75,6 +75,9 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 78:  Batch Processing
 - ✅ Day 79:  Swing Util Dialogs
 - ✅ Day 80-84:  Swing Forms & JFrame Applications
+- ✅ Day 85:  Tabbed Pane Components
+- ✅ Day 86-87:  MouseKeyListenerMotionListener
+- ✅ Day 88: Tree Components.java
 
 ---
 
