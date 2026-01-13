@@ -78,6 +78,7 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 85:  Tabbed Pane Components
 - ✅ Day 86-87:  MouseKeyListenerMotionListener
 - ✅ Day 88: Tree Components.java
+- ✅ Day 89: JDBC – Database Connection
 
 ---
 
