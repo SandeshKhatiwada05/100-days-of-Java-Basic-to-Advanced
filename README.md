@@ -79,6 +79,8 @@ This challenge is designed to help my students (and anyone following along) buil
 - ✅ Day 86-87:  MouseKeyListenerMotionListener
 - ✅ Day 88: Tree Components.java
 - ✅ Day 89: JDBC – Database Connection
+- ✅ Day 90 to 93: JavaFX
+- ✅ Day 94-97: JSP Servlets
 
 ---
 
