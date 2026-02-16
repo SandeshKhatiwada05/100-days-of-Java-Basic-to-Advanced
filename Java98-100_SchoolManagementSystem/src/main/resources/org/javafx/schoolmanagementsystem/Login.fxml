@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml"
+      fx:controller="org.javafx.schoolmanagementsystem.controllers.LoginController"
+      alignment="CENTER"
+      spacing="20">
+
+    <padding>
+        <Insets top="40" right="40" bottom="40" left="40"/>
+    </padding>
+
+    <Label text="Welcome Saisa!" styleClass="title-label"/>
+    <TextField fx:id="txtUsername" promptText="Username"/>
+    <PasswordField fx:id="txtPassword" promptText="Password"/>
+    <Button text="Login" onAction="#handleLogin"/>
+</VBox>

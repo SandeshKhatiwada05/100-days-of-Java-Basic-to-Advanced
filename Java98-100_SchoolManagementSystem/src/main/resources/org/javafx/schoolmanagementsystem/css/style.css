@@ -1,0 +1,22 @@
+.title-label {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50;
+}
+
+.text-field, .password-field {
+    -fx-font-size: 16px;
+    -fx-pref-width: 250px;
+}
+
+.button {
+    -fx-font-size: 16px;
+    -fx-background-color: #2980b9;
+    -fx-text-fill: white;
+    -fx-padding: 10 20 10 20;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #3498db;
+}

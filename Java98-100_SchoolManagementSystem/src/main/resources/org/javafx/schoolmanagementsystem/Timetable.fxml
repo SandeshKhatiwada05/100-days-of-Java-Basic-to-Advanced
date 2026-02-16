@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/9.0.1"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="org.javafx.schoolmanagementsystem.controllers.TimetableController"
+            prefHeight="563.0" prefWidth="1102.0">
+
+    <!-- Top Banner -->
+    <Pane prefHeight="139.0" prefWidth="1102.0" style="-fx-background-color: #2D75E8;"
+          AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <children>
+            <Label layoutX="73.0" layoutY="30.0" text="Timetable" textFill="WHITE">
+                <font>
+                    <Font size="48.0"/>
+                </font>
+            </Label>
+            <Label layoutX="79.0" layoutY="91.0" text="School Management System" textFill="WHITE">
+                <font>
+                    <Font size="13.0"/>
+                </font>
+            </Label>
+        </children>
+    </Pane>
+
+    <!-- TableView Timetable -->
+    <TableView fx:id="timetableTable" layoutX="20.0" layoutY="159.0" prefHeight="349.0" prefWidth="1066.0"
+               AnchorPane.bottomAnchor="22.0" AnchorPane.leftAnchor="20.0"
+               AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="159.0"
+               style="-fx-border-color: #2D75E8;">
+        <columns>
+            <TableColumn fx:id="timeColumn" text="Time" prefWidth="100"/>
+            <TableColumn fx:id="mondayColumn" text="Monday" prefWidth="150"/>
+            <TableColumn fx:id="tuesdayColumn" text="Tuesday" prefWidth="150"/>
+            <TableColumn fx:id="wednesdayColumn" text="Wednesday" prefWidth="150"/>
+            <TableColumn fx:id="thursdayColumn" text="Thursday" prefWidth="150"/>
+            <TableColumn fx:id="fridayColumn" text="Friday" prefWidth="150"/>
+        </columns>
+    </TableView>
+
+</AnchorPane>
